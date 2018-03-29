@@ -10,5 +10,17 @@ package praktek01;
  * @author Acer
  */
 public class warungpadang {
+    String nasi;
+    String lauk;
+    String piring;
+    String botol;
+    
+    void cetakinfo(){
+        system.out.println("nasi   :"+nasi);
+        system.out.println("lauk   :"+lauk);
+        system.out.println("piring :"+piring);
+        system.out.println("botol  :"+botol);
+    }
+    
     
 }
