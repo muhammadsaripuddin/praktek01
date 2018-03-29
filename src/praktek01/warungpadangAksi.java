@@ -17,5 +17,7 @@ public class warungpadangAksi {
         warungpadang.lauk = ikan;
         warungpadang.piring = besar;
         warungpadang.botol = hijau;
+        
+        warungpadang.cetakinfo();
     }
 }
