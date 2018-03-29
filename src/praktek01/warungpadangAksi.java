@@ -11,6 +11,11 @@ package praktek01;
  */
 public class warungpadangAksi {
     public static void main(String[] args) {
-        warungpadang nasi = putih();
+        warungpadang 1 = new();
+        
+        warungpadang.nasi = putih;
+        warungpadang.lauk = ikan;
+        warungpadang.piring = besar;
+        warungpadang.botol = hijau;
     }
 }
