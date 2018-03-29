@@ -10,5 +10,7 @@ package praktek01;
  * @author Acer
  */
 public class warungpadangAksi {
-    
+    public static void main(String[] args) {
+        warungpadang nasi = putih();
+    }
 }
